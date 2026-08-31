@@ -102,6 +102,9 @@ export default {
                     <p>
      mamaguevo trancao jejejejej
                     </p>
+                   </p>
+       no ser un cabeza de guevo
+                </p>
                 </div>
             </div>
         </main>
