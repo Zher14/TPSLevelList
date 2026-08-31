@@ -1,18 +1,13 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": ,
+    "name": "Unemployment Chall",
+    "author": "Pablo",
+    "creators": [1],
+    "verifier": "Zher14",
+    "verification": "https://youtu.be/h3fiVevtaYE?si=n_Sl6jBO3sCIuyEW",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "enjoyment": "3.795",
     "records": [
-        {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        }
     ]
 }
